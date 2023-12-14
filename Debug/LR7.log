@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR7\Main.cpp(148): warning C4715: Grid::LoadData: значение возвращается не при всех путях выполнения
+  LR7.vcxproj -> C:\Users\Asus\Desktop\плюсы\САПРЫ\LR7\Debug\LR7.exe
